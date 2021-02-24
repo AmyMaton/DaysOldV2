@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f5759b69a4a550a4097f2d844e6d7c4d
+guid: 34760b9cdad0d3642a7591690f05495c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4949072209526117976
-    second: MainCharacterSprite_0
+      213: 3452003437791708593
+    second: Rock_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -128,54 +128,32 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MainCharacterSprite_0
+      name: Rock_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 312
-        height: 342
+        width: 405
+        height: 233
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: 55, y: 61}
-        - {x: 69, y: 145}
-        - {x: 30, y: 171}
-        - {x: -35, y: 171}
-        - {x: -50, y: 166}
-        - {x: -82, y: 132}
-        - {x: -59, y: 38}
-        - {x: -38, y: 31}
-        - {x: -70, y: 12}
-        - {x: -106, y: -64}
-        - {x: -118, y: -137}
-        - {x: -118, y: -163}
-        - {x: -109, y: -169}
-        - {x: -75, y: -171}
-        - {x: 74, y: -171}
-        - {x: 74, y: -95}
-        - {x: 63, y: -20}
-      - - {x: 76, y: 98}
-        - {x: 73, y: 95}
-        - {x: 73, y: -120}
-        - {x: 74, y: -122}
-        - {x: 107, y: -122}
-        - {x: 156, y: -7}
-        - {x: 156, y: 98}
-      - - {x: -152, y: -24}
-        - {x: -156, y: -30}
-        - {x: -156, y: -75}
-        - {x: -145, y: -77}
-        - {x: -119, y: -77}
-        - {x: -106, y: -66}
-        - {x: -106, y: -28}
-        - {x: -120, y: -24}
+      - - {x: 119.5, y: 68.5}
+        - {x: 67.5, y: 116.5}
+        - {x: -37.5, y: 116.5}
+        - {x: -142.5, y: 35.5}
+        - {x: -175.5, y: -27.5}
+        - {x: -202.5, y: -90.5}
+        - {x: -202.5, y: -116.5}
+        - {x: 202.5, y: -116.5}
+        - {x: 202.5, y: -86.5}
+        - {x: 165.5, y: 8.5}
       tessellationDetail: 0.05
       bones: []
-      spriteID: 856df8804f2aea440800000000000000
-      internalID: 4949072209526117976
+      spriteID: 1b5800156daf7ef20800000000000000
+      internalID: 3452003437791708593
       vertices: []
       indices: 
       edges: []
